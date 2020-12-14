@@ -12,4 +12,4 @@ keywords:
 - firewall
 - waf
 sources:
-- https://github.com/marccampbell/docker-sigsci
+- https://github.com/ws-el-gato/docker-sigsci
